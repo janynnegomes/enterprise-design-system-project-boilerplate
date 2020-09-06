@@ -16,6 +16,8 @@ This is an Angular 9 project to be used as starter structure to build a scalable
 |Clients management | FE4 - New client registration <br/> FE5 - ClGraph of evolution of the number of active customers over timeient list <br/> FE6 - Client Search <br/> FE7 - Client registration change <br/> FE8 - Client removal| 
 |Manager dashboard| FE9 - Chart of clients by location <br/> FE10 - Chart of active customerS total evolution over time| 
 
+---
+
 # User stories
 | Feature| User story|
 |---|---|
