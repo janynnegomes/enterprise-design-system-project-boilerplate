@@ -14,7 +14,7 @@ This is an Angular 9 project to be used as starter structure to build a scalable
 |---|---|
 |User authentication| FE1 - User login <br/> FE2 - Password reset <br/> FE3 - User logout |
 |Clients management | FE4 - New client registration <br/> FE5 - ClGraph of evolution of the number of active customers over timeient list <br/> FE6 - Client Search <br/> FE7 - Client registration change <br/> FE8 - Client removal| 
-|Manager dashboard| FE9 - Chart of clients by location <br/> FE10 - Chart of evolution of the number of active customers over time| 
+|Manager dashboard| FE9 - Chart of clients by location <br/> FE10 - Chart of active customerS total evolution over time| 
 
 # User stories
 | Feature| User story|
@@ -28,4 +28,4 @@ This is an Angular 9 project to be used as starter structure to build a scalable
 |FE7 - Client registration change| US16 - Change client information|
 |FE8 - Client removal|US17 - Disable client|
 |FE9 - Chart of clients by location | US18 - Presentation of pie chart with total of clients grouped by state <br/>US 19 - Presentation  of pie chart with total of clients grouped by city <br/> US20 - Presentation  of pie chart with total of clients grouped by city region|
-| FE10 - Chart of evolution of the number of active customers over time| US21 - Presentation  of bar chart with total of clients filtered by start and end date <br/>US22 -  Group clients total by day <br/> US23 - Group clients total by week <br/> US24 - Group clients total by month <br/> US25 - Group clients total by year |
+| FE10 - Chart of active customerS total evolution over time| US21 - Presentation  of bar chart with total of clients filtered by start and end date <br/>US22 -  Group clients total by day <br/> US23 - Group clients total by week <br/> US24 - Group clients total by month <br/> US25 - Group clients total by year |
