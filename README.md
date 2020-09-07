@@ -35,6 +35,4 @@ This is an Angular 9 project to be used as starter structure to build a scalable
 ---
 
 # Tasks
-| User story| Task|
-|---|---|
-|US1- User login by email and password| Create login page template <br/> Validate user by email and password | 
+Project tasks of each user story are organized on Jira Project.
