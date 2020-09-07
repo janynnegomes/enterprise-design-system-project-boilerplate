@@ -31,3 +31,10 @@ This is an Angular 9 project to be used as starter structure to build a scalable
 |FE8 - Client removal|US17 - Disable client|
 |FE9 - Chart of clients by location | US18 - Presentation of pie chart with total of clients grouped by state <br/>US 19 - Presentation  of pie chart with total of clients grouped by city <br/> US20 - Presentation  of pie chart with total of clients grouped by city region|
 | FE10 - Chart of active customerS total evolution over time| US21 - Presentation  of bar chart with total of clients filtered by start and end date <br/>US22 -  Group clients total by day <br/> US23 - Group clients total by week <br/> US24 - Group clients total by month <br/> US25 - Group clients total by year |
+
+---
+
+# Tasks
+| User story| Task|
+|---|---|
+|US1- User login by email and password| Create login page template <br/> Validate user by email and password | 
