@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Enterprise Design System boilerplate
 This is an Angular 9 project to be used as starter structure to build a scalable front-end app/system design
 
@@ -65,4 +64,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
->>>>>>> df23cac... initial commit
+
